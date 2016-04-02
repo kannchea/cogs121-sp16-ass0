@@ -1,6 +1,8 @@
 // Node.js Dependencies
 const http = require("http");
 const path = require("path");
+const express = require("express");
+const handlebars = require("express-handlebars");
 
 var app = express();
 
