@@ -1,0 +1,20 @@
+{
+  "name": "cogs121-sp16-ass0",
+  "version": "1.0.0",
+  "description": "Github Repository for COGS 121 Spring 2016 - Assignment 0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kannchea/cogs121-sp16-ass0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kannchea/cogs121-sp16-ass0/issues"
+  },
+  "homepage": "https://github.com/kannchea/cogs121-sp16-ass0#readme"
+}
