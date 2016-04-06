@@ -2,7 +2,7 @@ var models = require("../models");
 
 exports.send = function(req, res) { 
   
-  console.log("req.body");
+  console.log(req.body);
   
   var newMessage = new models.Message({
 
